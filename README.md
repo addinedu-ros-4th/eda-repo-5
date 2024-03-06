@@ -1,27 +1,24 @@
 # 뉴스데이터를 활용한 주가분석
 
 ## 1. 개요 
-### 1-1) 프로젝트 목표 :
+### 1-1) 프로젝트 목표
 - 뉴스 데이터를 통해 주식 흐름에 대한 인사이트를 얻기 위하여, 뉴스에 대한 [호재/악재/중립] 감성 분석 및 주식 그래프와의 상관 관계 분석
 - 마인드 맵
   
 ![mindmap](https://github.com/cccsssshh/log_repository/assets/157219758/834d1d67-a073-455f-a3f5-90f8243281c2)
-### 1-2) 프로젝트 기간 : 2023.01.17 - 2023.01.24
+### 1-2) 프로젝트 기간 <2023.01.17 - 2023.01.24>
   - 이슈 생성 및 우선 순위 구분, 개발 일정 관리
-
-  - 프로젝트 흐름 및 중요도
   
 ![process (3)](https://github.com/cccsssshh/log_repository/assets/157219758/666ab173-4a41-4e22-80a0-3eb7b7f8a4d6)
   ![importance (1)](https://github.com/cccsssshh/log_repository/assets/157219758/30ed229d-9511-45bc-a98d-0f22087b31a3)
 
-### 1-3) 구성원 및 담당 :
+### 1-3) 구성원 및 담당
   - 조성호(조장) : 웹 크롤링, 뉴스 요약, 데이터 전처리, 주식 데이터 수집
   - 김태형 : 웹 크롤링, 감성분석 모델 학습 및 뉴스 데이터 감성 분석
   - 이정욱 : 웹 크롤링, 감성분석 결과 및 주가 데이터 시각화, 주식 데이터 수집
   - 이지호 : 웹 크롤링, 뉴스 기사 데이터 형태소 분리, 감성분석 결과 및 데이터 시각화
 
 ### 1-4) 기술 키워드
-  mysql, python, pandas, matplotlib, seaborn, FinanceDataReader, mecab, kovert
 ![Untitled](https://github.com/cccsssshh/log_repository/assets/157219758/b94a28bb-e5a1-47ac-982d-acdb531df91a)
 
   
