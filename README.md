@@ -9,8 +9,8 @@
 ### 1-2) 프로젝트 기간 <2023.01.17 - 2023.01.24>
   - 이슈 생성 및 우선 순위 구분, 개발 일정 관리
   
-![process (3)](https://github.com/cccsssshh/log_repository/assets/157219758/666ab173-4a41-4e22-80a0-3eb7b7f8a4d6)
-  ![importance (1)](https://github.com/cccsssshh/log_repository/assets/157219758/30ed229d-9511-45bc-a98d-0f22087b31a3)
+![process (3)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/a49faacd-348f-4767-b642-44d46cccff2b)
+  ![importance (1)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/c8eb2a42-7b41-4483-bcbf-729d8e1d4836)
 
 ### 1-3) 구성원 및 담당
   - 조성호(조장) : 웹 크롤링, 뉴스 요약, 데이터 전처리, 주식 데이터 수집
@@ -19,26 +19,25 @@
   - 이지호 : 웹 크롤링, 뉴스 기사 데이터 형태소 분리, 감성분석 결과 및 데이터 시각화
 
 ### 1-4) 기술 키워드
-![Untitled](https://github.com/cccsssshh/log_repository/assets/157219758/b94a28bb-e5a1-47ac-982d-acdb531df91a)
-
+![Untitled](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/24776159-13d1-43ed-9f08-7d27bcb54d30)
   
   
 ## 2. 프로젝트 결과
 ### 2-1) 뉴스 기사 개수와 거래량과의 관계
 
-![samsung (2)](https://github.com/cccsssshh/log_repository/assets/157219758/e33ee3b9-010e-4da1-89f0-6a6dfca14b12)
+![samsung (2)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/e98c0347-eec5-4295-973f-c119920b3e8e)
 
   - 뉴스 기사 갯수가 많을 때 거래량이 상승하는 것을 볼 수 있음
 
 ### 2-2) 뉴스 감성점수와 주가와의 관계
 
-![samsung1 (1)](https://github.com/cccsssshh/log_repository/assets/157219758/08fd435f-2499-4999-82a6-d4a26cb3cbe7)
+![samsung1 (1)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/647c788a-867f-46a7-92af-5cac968051c6)
 
   - 뉴스 감성점수가 높으면 주가가 상승하는 것을 볼 수 있음
 
 ## 3. 기능별 구현 과정
 - 프로젝트 진행 과정 : 웹 크롤링 -> 형태소 분리 -> 감성 분석 -> 데이터 시각화
-![readme flow drawio (1)](https://github.com/cccsssshh/log_repository/assets/157219758/2993b2a1-e9d4-471f-8d94-9e4e7160180e)
+![readme flow drawio (1)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/1d8fd744-cbde-4ffe-82ce-7e65ef4ed4a9)
 
 ⇒ 관심 산업 분야 및 기업에 대한 뉴스 데이터를 웹 크롤링을 통해 수집 및 DB 관리
 
@@ -63,26 +62,26 @@
 ### 3-4) 데이터 시각화
 - 레인보우로보틱스 1년치 기사 중 가장 많이 나온 키워드 분석
 
-![Untitled (1)](https://github.com/cccsssshh/log_repository/assets/157219758/071ec264-8b73-4ca7-99cd-83cde1ed2297)
+![Untitled (1)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/f43013e6-9441-46c2-830b-d71449eb7a04)
 
 - 레인보우로보틱스 1년치 기사의 월당 Top 5 키워드 분석
 
-![Untitled (2)](https://github.com/cccsssshh/log_repository/assets/157219758/0235b0e3-7bee-46de-9fce-a6c356fadbe8)
+![Untitled (2)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/b5360941-dcc2-4635-9c9e-6a934d695a4e)
 
 
 - 감성 분석이 끝난 데이터 DB를 이용 월별 호재, 악재 감성 점수 추이
 
   - 호재는 +1, 악재는 -1로 일괄 계산
   
-![rainbow_gamsung](https://github.com/cccsssshh/log_repository/assets/157219758/d1cbfc79-49ae-4875-b61b-57a3fe969e6d)
+![rainbow_gamsung](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/d1dc69ad-2e0c-4395-88d2-6e2cfb063ca3)
 
   - 실제 주가 데이터와 감성분석을 토대로 예측한 경향 비교
 
-![rainbow](https://github.com/cccsssshh/log_repository/assets/157219758/c2049fc2-0d44-4933-a3bd-b59a967bb584)
+![rainbow](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/a2a7c4b7-5fb1-4282-8f7c-f8dd14eb43fd)
   
   - 키워드 별 주가에 얼마나 영향을 끼치는지 회귀분석
 
-![123123123 (1)](https://github.com/cccsssshh/log_repository/assets/157219758/9f92345c-fad7-45d0-a0cd-5671dcc2d66a)
+![123123123 (1)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/fa684e06-e4d1-4f58-8e54-17398b858235)
 
 ### 3-5) 프로젝트 진행 중 발생한 이슈 및 해결 과정
   - 웹 크롤링
