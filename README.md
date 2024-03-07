@@ -5,7 +5,7 @@
 - 뉴스 데이터를 통해 주식 흐름에 대한 인사이트를 얻기 위하여, 뉴스에 대한 [호재/악재/중립] 감성 분석 및 주식 그래프와의 상관 관계 분석
 - 마인드 맵
   
-![mindmap](https://github.com/cccsssshh/log_repository/assets/157219758/834d1d67-a073-455f-a3f5-90f8243281c2)
+![mindmap](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/fa417f46-fe48-4d28-ad81-f18470348d32)
 ### 1-2) 프로젝트 기간 <2023.01.17 - 2023.01.24>
   - 이슈 생성 및 우선 순위 구분, 개발 일정 관리
   
