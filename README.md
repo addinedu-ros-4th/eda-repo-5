@@ -6,7 +6,7 @@
 - 마인드 맵
   
 ![mindmap](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/fa417f46-fe48-4d28-ad81-f18470348d32)
-### 1-2) 프로젝트 기간 <2023.01.17 - 2023.01.24>
+### 1-2) 프로젝트 기간 <2024.01.17 - 2024.01.24>
   - 이슈 생성 및 우선 순위 구분, 개발 일정 관리
   
 ![process (3)](https://github.com/addinedu-ros-4th/eda-repo-5/assets/157219758/a49faacd-348f-4767-b642-44d46cccff2b)
